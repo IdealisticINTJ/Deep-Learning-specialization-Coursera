@@ -1,6 +1,6 @@
-# Deep Learning specialization, Coursera
+# Deep Learning specialization, [Coursera](https://www.coursera.org/specializations/deep-learning)
 ### Become a Deep Learning expert. Master the fundamentals of deep learning and break into AI.
-Instructor: Andrew Ng, deeplearning.ai.
+Instructor: Andrew Ng, [deeplearning.ai](http://deeplearning.ai/).
 
 ## Course 1 : Neural Networks and Deep Learning
 In this course, the foundations of deep learning were covered. The major learnings after completing this course were :
